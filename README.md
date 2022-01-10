@@ -2,7 +2,7 @@
 
 This repository to meant to provide some basic files for experimenting with Jupyter Labs. During the lab session we will be working through the following steps:
 
-1. Ceeate a fork of this repo into your own organization, i.e. create a copy at `<username>/jupyter-demo`.
+1. Create a fork of this repo into your own organization, i.e. create a copy at `<username>/jupyter-demo`.
 
 2. Clone the repo to your Jupyter Lab session (container, stat server, local machine).
 
